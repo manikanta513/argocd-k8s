@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: manikanta513/cicd-argocd:18
+        image: manikanta513/cicd-argocd:13
         ports:
         - containerPort: 8000
